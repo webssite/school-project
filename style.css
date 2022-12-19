@@ -21,12 +21,3 @@ body {
 .nav-img {
     width: 130px;
 }
-
-a {
-    text-decoration: none;
-    color: black;
-}
-
-a:hover {
-    color: black;
-}
